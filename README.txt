@@ -1,3 +1,7 @@
 # Another DEMO
 
-A description.
+A more detailed description.
+
+## Example.
+
+further details.
