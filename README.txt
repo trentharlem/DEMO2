@@ -4,4 +4,4 @@ A more detailed description.
 
 ## Example.
 
-further details.
+further details added via Github ui.
